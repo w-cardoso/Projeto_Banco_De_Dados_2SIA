@@ -1,6 +1,4 @@
-
 package br.com.fiap.modelo;
-
 
 public class Usuario {
     private String login;
